@@ -1,0 +1,3 @@
+@Imports VS_Project_Assignment.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
